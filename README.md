@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Snake Light](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-![snake gif](https://github.com/kapilraut1/kapilraut1/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
