@@ -9,7 +9,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,prisma,nodejs,express,postgres,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,prisma,nodejs,express,postgres,mongodb,git,github,vscode,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack%20Developer-000000?style=for-the-badge&logo=dev&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Next.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-TailwindCSS-000000?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -17,32 +23,47 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilraut1&show_icons=true&theme=radical" alt="Kapil's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilraut1&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilraut1&show_icons=true&theme=dark" alt="Kapil's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilraut1&layout=compact&theme=dark" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kapilraut1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=kapilraut1&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-- 🔗 [E-Commerce Platform](https://github.com/kapilraut1/e-commerce) — Built with **Next.js, Prisma, TailwindCSS**  
-- 🔗 [Portfolio Website](https://github.com/kapilraut1/portfolio) — Personal portfolio using **React + TypeScript**  
-- 🔗 [Chat App](https://github.com/kapilraut1/chat-app) — Real-time chat app with **Socket.io + Node.js**  
+- 🔗 [E-Commerce Platform](https://e-commerce-i-chi.vercel.app/) — Built with **Next.js, Prisma, TailwindCSS**  
+- 🔗 [Portfolio Website](https://www.kapilraut.com.np) — Personal portfolio using **React + TypeScript**  
+- 🔗 [Kaps-image](https://github.com/kapilraut1/main-ai/) — Real-time chat app with **Next.js + Node.js**  
+
+---
+
+## ✨ Fun Dark-Mode Vibes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" height="120"/>
+  <br>
+  <span style="color:white;">💻 Always coding | 🚀 Always learning | 🌙 Late-night problem solver</span>
+</p>
 
 ---
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilraut1/"><img src="https://img.shields.io/badge/-Kapil%20Raut-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email%20Me-red?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/kapilraut1"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kapilraut1">
+    <img src="https://img.shields.io/badge/-Kapil%20Raut-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rautkapil124@gmail.com"
+    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kapilraut1">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
@@ -50,9 +71,20 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation"/>
 </p>
 
 ---
+
+<p align="center">
+  <i>⚡ Built with passion, dark mode, and TypeScript</i>
+  <br>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 ⭐️ *"Consistent practice and curiosity fuel growth."*  
