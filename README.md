@@ -37,7 +37,7 @@
 
 - 🔗 [E-Commerce Platform](https://e-commerce-i-chi.vercel.app/) — Built with **Next.js, Prisma, TailwindCSS**  
 - 🔗 [Portfolio Website](https://www.kapilraut.com.np) — Personal portfolio using **React + TypeScript**  
-- 🔗 [Kaps-image](https://github.com/kapilraut1/main-ai/) — Real-time chat app with **Next.js + Node.js**  
+- 🔗 [Kaps-image](https://main-ai-five.vercel.app/) — Real-time chat app with **Next.js + Node.js**  
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake Light](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!--![GitHub Snake Light](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
 ![GitHub Snake Dark](https://raw.githubusercontent.com/kapilraut1/kapilraut1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
