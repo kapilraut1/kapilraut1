@@ -9,5 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![snake gif]
-(https://github.com/kapilraut1/kapilraut1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kapilraut1/kapilraut1/blob/output/github-contribution-grid-snake.gif)
