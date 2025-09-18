@@ -23,11 +23,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapilraut1&show_icons=true&theme=dark" alt="Kapil's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilraut1&layout=compact&theme=dark" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=kapilraut1&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -42,10 +37,6 @@
 ---
 
 ## ✨ Fun Dark-Mode Vibes  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" height="120"/>
-  <br>
   <span style="color:white;">💻 Always coding | 🚀 Always learning | 🌙 Late-night problem solver</span>
 </p>
 
