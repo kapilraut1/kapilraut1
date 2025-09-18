@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Kapil Raut  
+# 👋 Hello, I'm Kapil Raut  
 
 🚀 **Tech Enthusiast | Full-Stack Developer | Lifelong Learner**  
-💻 Skilled in **React, Next.js, TypeScript, Prisma, TailwindCSS**  
-📈 Passionate about building scalable web apps & solving real-world problems  
+💻 Skilled in **React, Next.js, TypeScript, Prisma, TailwindCSS, Java, C#**  
+📈 Love building scalable web apps & solving real-world problems  
 
 ---
 
@@ -36,13 +36,13 @@
 
 ---
 
-## ✨ Fun Dark-Mode Vibes  
+## ✨ Vibes  
   <span style="color:white;">💻 Always coding | 🚀 Always learning | 🌙 Late-night problem solver</span>
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect to this young lad...
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kapilraut1">
@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-  <i>⚡ Built with passion, dark mode, and TypeScript</i>
+  <i>⚡ Built with passion, dark mode, and discipline. </i>
   <br>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,4 +78,4 @@
 
 ---
 
-⭐️ *"Consistent practice and curiosity fuel growth."*  
+⭐️ *"Destiny is already set, it's the consistentency that takes you to the destiny. "*  
