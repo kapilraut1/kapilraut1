@@ -20,10 +20,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=kapilraut1&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kapilraut1&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilraut1&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
