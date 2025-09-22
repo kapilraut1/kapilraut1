@@ -56,7 +56,7 @@
 ## 📬 Connect to this young lad...
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kapilraut1">
+  <a href="https://www.linkedin.com/in/kapil-raut-059916274/">
     <img src="https://img.shields.io/badge/-Kapil%20Raut-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rautkapil124@gmail.com"
