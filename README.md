@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,prisma,nodejs,express,postgres,mongodb,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,java,nodejs,express,postgres,mongodb,git,github,vscode,figma&theme=dark" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 - 🔗 [E-Commerce Platform](https://e-commerce-i-chi.vercel.app/) — Built with **Next.js, Prisma, TailwindCSS**  
 - 🔗 [Portfolio Website](https://www.kapilraut.com.np) — Personal portfolio using **React + TypeScript**  
-- 🔗 [Kaps-image](https://main-ai-five.vercel.app/) — Real-time chat app with **Next.js + Node.js**  
+- 🔗 [Kaps-image](https://main-ai-five.vercel.app/) — Real-time AI image generator app with **Next.js + Node.js**  
 
 ---
 
